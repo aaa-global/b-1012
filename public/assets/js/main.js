@@ -31,9 +31,12 @@ app.controller('homeController', ['$scope', function ($scope) {
 
     //Replace each url with your images path to be use on the slider
     $scope.sliders = [
-        {url: 'assets/img/slider1.jpg'},
-        {url: 'assets/img/slider2.jpg'},
-        {url: 'assets/img/slider3.jpg'}
+        {url: 'https://www.afew-store.com/media/wysiwyg/Landingpages/Air-Huarache-Utility.jpg'},
+        {url: 'https://images.sneakersaddict.com/images//683818-002-683818-002-nike-womens-air-huarache-run-prm-sunset-glow-5.jpg'},
+        {url: 'https://pmcfootwearnews.files.wordpress.com/2017/07/jahnkoy.jpg?w=1024'},
+        {url: 'https://raindropsofsapphire.com/wp-content/uploads/2017/10/Balenciaga-race-runners.jpg'},
+        {url: 'http://mangobluete.com/wp-content/uploads/2013/10/IMG_3443.jpg'},
+        {url: 'https://cdn.shopify.com/s/files/1/0245/7221/products/BEN8736_2048x2048.jpg?v=1503508885'}
     ];
 
 }]);
