@@ -78,7 +78,7 @@ productFactory.factory('productFactory', function () {
             variation: "7,8,9,10,11"
         },
         {
-            productId: 7,
+            productId: 8,
             name: "Product7",
             category: "Tennis",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
@@ -88,7 +88,7 @@ productFactory.factory('productFactory', function () {
             variation: "7,8,9,10,11"
         },
         {
-            productId: 7,
+            productId: 9,
             name: "Product7",
             category: "Tennis",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
@@ -98,7 +98,7 @@ productFactory.factory('productFactory', function () {
             variation: "7,8,9,10,11"
         },
         {
-            productId: 7,
+            productId: 10,
             name: "Product7",
             category: "Tennis",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
@@ -108,7 +108,7 @@ productFactory.factory('productFactory', function () {
             variation: "7,8,9,10,11"
         },
         {
-            productId: 7,
+            productId: 11,
             name: "Product7",
             category: "Tennis",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
@@ -118,11 +118,51 @@ productFactory.factory('productFactory', function () {
             variation: "7,8,9,10,11"
         },
         {
-            productId: 7,
+            productId: 12,
             name: "Product7",
             category: "Tennis",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
             image: "via.jpg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 13,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "gazelle.jpg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 14,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "jaysen.jpg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 15,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "nova.jpg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 16,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "ruffle.jpg;placeholder2.png;placeholder3.png",
             price: 55,
             qty: 0,
             variation: "7,8,9,10,11"

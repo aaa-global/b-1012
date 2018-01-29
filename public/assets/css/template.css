@@ -1188,6 +1188,6 @@ input[type=number]::-webkit-outer-spin-button {
 .thumbnail>img, .thumbnail a>img {
     margin-right: auto;
     margin-left: auto;
-    padding: 40px;
-    height: 275px;
+    padding: 45px;
+    height: 265px;
 }
