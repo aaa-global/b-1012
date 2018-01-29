@@ -30,7 +30,7 @@
 
                     <!-- PRODUCT GRID -->
                     <div class="row products grid">
-                        <div class="col-md-4 col-sm-6 no-padding-col" id={{product.productId}} data-ng-repeat="product in products | orderBy: highPrice | filter:showCategory">
+                        <div class="col-md-3 col-md-4 col-sm-6 no-padding-col" id={{product.productId}} data-ng-repeat="product in products | orderBy: highPrice | filter:showCategory">
                             <div class="thumbnail no-border no-padding">
                                 <div class="media">
                                     <a class="media-link" href="#/products/{{product.productId}}">

@@ -9,10 +9,10 @@ productFactory.factory('productFactory', function () {
     productFactory.products = [
         {
             productId: 1,
-            name: "Product1",
+            name: "Blazer Mid Vintage Sneakers",
             category: "Tennis",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
-            image: "placeholder1.png;placeholder2.png;placeholder3.png",
+            image: "nike_blazer_pink.jpg;nike_blazer_pink_2.jpg;nike_blazer_pink_3.jpg",
             price: 30,
             qty: 6,
             variation: ""
@@ -22,7 +22,7 @@ productFactory.factory('productFactory', function () {
             name: "Product2",
             category: "Running",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
-            image: "placeholder1.png;placeholder2.png;placeholder3.png",
+            image: "herache.jpg;placeholder2.png;placeholder3.png",
             price: 40,
             qty: 10,
             variation: "6,7,8,9,10,11,12"
@@ -32,7 +32,7 @@ productFactory.factory('productFactory', function () {
             name: "Product3",
             category: "Training & Gym",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
-            image: "placeholder1.png;placeholder2.png;placeholder3.png",
+            image: "lancer.jpg;placeholder2.png;placeholder3.png",
             price: 55,
             qty: 0,
             variation: "7,8,9,10,11"
@@ -42,7 +42,7 @@ productFactory.factory('productFactory', function () {
             name: "Product4",
             category: "Running",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
-            image: "placeholder1.png;placeholder2.png;placeholder3.png",
+            image: "NMD.jpg;placeholder2.png;placeholder3.png",
             price: 30,
             qty: 6,
             variation: "8,9,10,11"
@@ -52,7 +52,7 @@ productFactory.factory('productFactory', function () {
             name: "Product5",
             category: "Training & Gym",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
-            image: "placeholder1.png;placeholder2.png;placeholder3.png",
+            image: "stardust.jpg;placeholder2.png;placeholder3.png",
             price: 40,
             qty: 10,
             variation: "6,7,8,9,10,11,12"
@@ -62,11 +62,74 @@ productFactory.factory('productFactory', function () {
             name: "Product6",
             category: "Tennis",
             desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
-            image: "placeholder1.png;placeholder2.png;placeholder3.png",
+            image: "miu.jpg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 7,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "balenciaga.jpg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 7,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "jasepe.jpg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 7,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "cortez_snake.jpg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 7,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "nike_blazer_1.jpeg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 7,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "garcia.jpg;placeholder2.png;placeholder3.png",
+            price: 55,
+            qty: 0,
+            variation: "7,8,9,10,11"
+        },
+        {
+            productId: 7,
+            name: "Product7",
+            category: "Tennis",
+            desc: "Lorem ipsum dolor sit amet, consecte tuer ad ipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculu.",
+            image: "via.jpg;placeholder2.png;placeholder3.png",
             price: 55,
             qty: 0,
             variation: "7,8,9,10,11"
         }
+
+
+
     ];
 
     return productFactory;
